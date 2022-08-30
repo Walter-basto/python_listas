@@ -1,0 +1,2 @@
+nome_idade=[["Pedro",25],["Maria",19],["João",32]]
+print(nome_idade [2][1])
